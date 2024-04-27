@@ -3,7 +3,7 @@ import { View,Text, SafeAreaView, StyleSheet } from 'react-native';
 
 export default function App() {
   return (
-    <View style={styles.container}><Text> Welcome Gazibos</Text></View>
+    <View style={styles.container}><Text> Welcome the Gazibos</Text></View>
   );
 }
 
